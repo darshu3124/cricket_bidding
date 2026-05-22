@@ -20,9 +20,14 @@ document.querySelector('#app').innerHTML = `
     <p class="subtitle">Official Player Database</p>
     
     <div class="search-box">
-      <input type="text" id="searchInput" class="search-input" placeholder="Search player name..." autocomplete="off" />
+      <div class="search-row">
+        <input type="text" id="searchInput" class="search-input" placeholder="Search player name..." autocomplete="off" />
+        <button id="showAllBtn" class="show-all-btn">All</button>
+      </div>
       <ul id="searchDropdown" class="search-dropdown"></ul>
     </div>
+
+    <div id="playerCount" class="player-count" style="display: none;"></div>
 
     <div class="result-container" id="resultContainer">
       <div id="emptyState" class="empty-state">
@@ -30,6 +35,7 @@ document.querySelector('#app').innerHTML = `
         <p>Search for a player to view their profile</p>
       </div>
       <div id="playerProfile" class="player-profile" style="display: none;"></div>
+      <div id="allPlayersGrid" class="all-players-grid" style="display: none;"></div>
     </div>
   </div>
 `
@@ -38,6 +44,9 @@ const searchInput = document.getElementById('searchInput');
 const searchDropdown = document.getElementById('searchDropdown');
 const emptyState = document.getElementById('emptyState');
 const playerProfile = document.getElementById('playerProfile');
+const showAllBtn = document.getElementById('showAllBtn');
+const playerCount = document.getElementById('playerCount');
+const allPlayersGrid = document.getElementById('allPlayersGrid');
 
 // Close dropdown on outside click
 document.addEventListener('click', (e) => {
@@ -46,11 +55,20 @@ document.addEventListener('click', (e) => {
   }
 });
 
+showAllBtn.addEventListener('click', () => {
+  renderAllPlayers(playersData);
+});
+
 searchInput.addEventListener('input', (e) => {
   const query = e.target.value.toLowerCase().trim();
   
   if (query.length < 1) {
     searchDropdown.style.display = 'none';
+    allPlayersGrid.style.display = 'none';
+    playerCount.style.display = 'none';
+    if (playerProfile.style.display === 'none') {
+      emptyState.style.display = 'flex';
+    }
     return;
   }
 
@@ -87,8 +105,52 @@ searchInput.addEventListener('input', (e) => {
   }
 });
 
+function renderAllPlayers(players) {
+  emptyState.style.display = 'none';
+  playerProfile.style.display = 'none';
+  allPlayersGrid.style.display = 'grid';
+  searchDropdown.style.display = 'none';
+  searchInput.value = '';
+
+  playerCount.style.display = 'block';
+  playerCount.innerHTML = `<span class="count-number">${players.length}</span> Players Found`;
+
+  allPlayersGrid.innerHTML = players.map((player, idx) => {
+    const fallbackImg = 'https://ui-avatars.com/api/?name=' + encodeURIComponent(player.name) + '&background=random&size=150';
+    const imgUrl = player.photoUrl ? getImageUrl(player.photoUrl, 300) : fallbackImg;
+    return `
+      <div class="player-card" data-idx="${idx}">
+        <div class="player-card-img">
+          <img src="${imgUrl}" alt="${player.name}" onerror="this.src='${fallbackImg}'" />
+        </div>
+        <div class="player-card-body">
+          <h3 class="player-card-name">${player.name}</h3>
+          <span class="player-card-role">${player.role}</span>
+          <span class="player-card-class">${player.class}</span>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  allPlayersGrid.querySelectorAll('.player-card').forEach(card => {
+    card.addEventListener('click', () => {
+      const player = players[card.getAttribute('data-idx')];
+      allPlayersGrid.style.display = 'none';
+      playerCount.style.display = 'none';
+      renderPlayer(player);
+      searchInput.value = player.name;
+    });
+  });
+
+  allPlayersGrid.style.animation = 'none';
+  allPlayersGrid.offsetHeight;
+  allPlayersGrid.style.animation = 'slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards';
+}
+
 function renderPlayer(player) {
   emptyState.style.display = 'none';
+  allPlayersGrid.style.display = 'none';
+  playerCount.style.display = 'none';
   playerProfile.style.display = 'block';
   
   const fallbackImg = 'https://ui-avatars.com/api/?name=' + encodeURIComponent(player.name) + '&background=random&size=200';
