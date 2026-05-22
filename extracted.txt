@@ -1,0 +1,734 @@
+Timestamp
+Name
+Class
+Roll no
+Phone Number
+Category
+Right/left
+Player photo
+05/05/2026 22:33:46
+Darshan 
+III BCA B
+BCA23078
+9380989191
+https://drive.google.com
+05/05/2026 22:34:43
+Shashank Shetty
+III BCOM B 
+BCM23211
+9148848361
+https://drive.google.com
+05/05/2026 22:49:19
+Praveen devadiga 
+III BBA
+BBA23033
+8431569523
+All-rounder
+Right
+https://drive.google.com
+05/05/2026 22:50:36
+Darshan
+3rd BCA A
+BCA23022
+9483151726
+All-rounder
+Right
+https://drive.google.com
+05/05/2026 22:56:12
+Dp prajwal
+3 bcom B
+Bcm23090
+7411327337
+Batsman
+Right
+https://drive.google.com
+05/05/2026 23:06:35
+Sharan shetty
+2nd BCA B
+BCA24116
+6360152747
+Batsman
+Right
+https://drive.google.com
+06/05/2026 00:21:29
+RODNEY 
+II Bcom A
+BCM24054
+7795884367
+All-rounder
+Right
+https://drive.google.com
+06/05/2026 06:18:45
+Kiran kotari
+Final BCA 'B'
+BCA23088
+9611923433
+Batsman
+Right
+https://drive.google.com
+06/05/2026 06:30:32
+Maneesh 
+2nd B.Com C
+BCM24254
+8971030161
+Bowler
+Right
+https://drive.google.com
+06/05/2026 07:38:22
+Subrahmanya B
+3 B.com C
+BCM23222
+8088435393
+All-rounder
+Right
+https://drive.google.com
+06/05/2026 08:59:10
+Winston 
+3rd B.COM
+BCM23360
+7022432759
+All-rounder
+Right
+https://drive.google.com
+06/05/2026 09:07:18
+Sharath
+III BCA B
+BCA23110
+9353237391
+All-rounder
+Right
+https://drive.google.com
+06/05/2026 13:11:20
+Arya
+3 BCOM E
+BCM23278
+8431959126
+Batsman
+Right
+https://drive.google.com
+06/05/2026 15:10:29
+Prajwal
+III BCA 'A'
+BCA23033
+7483663798
+All-rounder
+Right
+https://drive.google.com
+06/05/2026 15:12:41
+Prakyath A Hegde
+III BCA A
+BCA23034
+6360843239
+Batsman
+Right
+https://drive.google.com
+06/05/2026 15:13:18
+Prasad M Bhandary
+III BCA A
+BCA23035
+9632242492
+Batsman
+Right
+https://drive.google.com
+06/05/2026 15:20:11
+Rohit Shetty 
+II b.com b
+Bcm24166
+7349655070
+All-rounder
+Right
+https://drive.google.com
+06/05/2026 15:31:49
+Sathvik 
+1'b com c 
+Bcm25257
+7017233492
+Batsman
+Right
+https://drive.google.com
+06/05/2026 15:33:21
+Pavan
+III BBA
+BBA23028
+8105326414
+Batsman
+Right
+https://drive.google.com
+06/05/2026 15:38:56
+Dp prajwal
+3 b com B
+Bcm23090
+7411327337
+Batsman
+Right
+https://drive.google.com
+06/05/2026 15:58:50
+Nikhil
+III BCA B
+BCA23096
+8296460780
+All-rounder
+Right
+https://drive.google.com
+06/05/2026 16:22:40
+DARSHAN GOWDA 
+III BCA'A'
+BCA23021
+9019633283
+Batsman
+Right
+https://drive.google.com
+06/05/2026 16:34:27
+Deekshith 
+II BCA B
+BCA24086
+6362477325
+Batsman
+Right
+https://drive.google.com
+06/05/2026 16:45:54
+Manjunath 
+III BCOM A
+BCM23030
+8867252468
+All-rounder
+Right
+https://drive.google.com
+06/05/2026 16:46:43
+Sampreeth shetty
+III BCA A
+BCA23044
+9008978976
+Bowler
+Right
+https://drive.google.com
+06/05/2026 16:58:39
+Bharath
+Final B.Com
+BCM23170
+8660961372
+Batsman
+Right
+https://drive.google.com
+06/05/2026 17:42:12
+Akilesh
+III BCA B
+BCA23070
+8310901542
+Batsman
+Right
+https://drive.google.com
+06/05/2026 19:16:09
+Anvith shet 
+1Bcom (c)
+BCM25201 
+8296199290
+All-rounder
+Right
+https://drive.google.com
+06/05/2026 19:16:59
+Akash B Shetty
+III B.com C
+BCM23162
+6360375791
+Batsman
+Left
+https://drive.google.com
+06/05/2026 20:38:55
+Rithik chandan 
+II BCA(A)
+BCA24045
+7676055364
+Bowler
+Right
+https://drive.google.com
+07/05/2026 12:42:27
+Akshay
+1st Bca
+Bca25063
+8861063974
+Batsman
+Right
+https://drive.google.com
+07/05/2026 16:38:18
+Shrinidhi Shetty 
+2 BBA
+BBA24068
+7676987926
+All-rounder
+Left
+https://drive.google.com
+07/05/2026 18:07:08
+Mahesh
+BCA
+Bca23090
+7026131918
+All-rounder
+Right
+https://drive.google.com
+07/05/2026 20:07:21
+Ashish 
+Final bcom C 
+BCM23166
+8310758261
+All-rounder
+Right
+https://drive.google.com
+07/05/2026 20:59:23
+ADITHYA 
+1st bca b
+Bca25061
+9686316671
+All-rounder
+Right
+https://drive.google.com
+07/05/2026 21:53:19
+Prathvil
+ 1st B.Com 'C'
+BCM25239 
+9008201227
+All-rounder
+Right
+https://drive.google.com
+08/05/2026 00:22:15
+Nithesh Devadiga 
+2nd BBA
+BBA24039
+7899522506
+Batsman
+Right
+https://drive.google.com
+08/05/2026 12:43:27
+Rithan
+1BCA B
+BCA25085
+9880413772
+Batsman
+Right
+https://drive.google.com
+09/05/2026 10:10:23
+Vikas 
+2 bcom B
+Bcm24394
+9110892534
+Batsman
+Right
+https://drive.google.com
+09/05/2026 13:49:58
+Rajath
+1BBA
+BBA25078
+7019339293
+Bowler
+Right
+https://drive.google.com
+09/05/2026 13:50:28
+Nesara 
+1BBA
+BBA25062
+7795392109
+Batsman
+Right
+https://drive.google.com
+09/05/2026 14:50:15
+Pavan N
+1st BBA
+25064
+7483903318
+All-rounder
+Right
+https://drive.google.com
+09/05/2026 15:09:00
+Rithan 
+1 bca b
+BCA25085
+9880413772
+Batsman
+Right
+https://drive.google.com
+09/05/2026 16:41:14
+Amay
+II BBA
+BBA24006
+9141515141
+All-rounder
+Right
+https://drive.google.com
+09/05/2026 20:05:25
+Sanketh
+1 BCA B
+BCA25094
+7892735252
+All-rounder
+Right
+https://drive.google.com
+09/05/2026 20:09:41
+Sanketh 
+1 BCA B
+BCA 25094
+7892735252
+All-rounder
+Right
+https://drive.google.com
+10/05/2026 18:04:16
+Jeevanhs 
+II BCA 'A'
+BCA24019
+8792017807
+Batsman
+Right
+https://drive.google.com
+11/05/2026 07:56:45
+Goutham shetty 
+2nd BBA
+BBA24023
++918296731487
+Batsman
+Right
+https://drive.google.com
+11/05/2026 07:59:17
+Rajath Shetty 
+1st BCOM C
+BCM25242
+7981948558
+Batsman
+Right
+https://drive.google.com
+11/05/2026 19:44:55
+Vinesh shetty 
+2 Bcom D 
+Bcm24391
+7483348834
+All-rounder
+Right
+https://drive.google.com
+11/05/2026 19:45:40
+Vinesh 
+2 Bcom D 
+BCM24391
+7483348834
+All-rounder
+Right
+https://drive.google.com
+11/05/2026 21:03:46
+Karthik k bilava
+2nd BCOM D
+BCM24324
+8152911449
+All-rounder
+Right
+https://drive.google.com
+
+Timestamp
+Name
+Class
+Roll no
+Phone Number
+Category
+Right/left
+Player photo
+12/05/2026 08:05:28
+Manish Mogaveera
+2nd bcom d
+bcm24332
+6362110228
+Batsman
+Right
+https://drive.google.com
+13/05/2026 06:44:20
+VINAY 
+III BCOM A
+BCM23030
+ 89516 26049
+Batsman
+Right
+https://drive.google.com
+14/05/2026 08:50:22
+Ganapathi 
+2 bba
+BBA24022
+7975927235
+All-rounder
+Right
+https://drive.google.com
+14/05/2026 11:33:20
+Monish
+1st B.com ‘c'
+BCM25226
+8296988667
+All-rounder
+Right
+https://drive.google.com
+14/05/2026 12:07:27
+Harshith N
+II BCA A
+BCA24018
+9187090103
+Batsman
+Right
+https://drive.google.com
+15/05/2026 21:13:04
+Keerthiraj
+2nd b. Com 'c'
+BCM24249
+7899633717
+Batsman
+Right
+https://drive.google.com
+16/05/2026 15:23:22
+Keerthiraj
+2nd b.com 'c'
+BCM24249
+7899633717
+Batsman
+Right
+https://drive.google.com
+16/05/2026 15:39:05
+Nishanth
+2 bcom c 
+BCM24272
+9535869070
+All-rounder
+Right
+https://drive.google.com
+16/05/2026 15:42:35
+Keerthiraj
+2nd b. Com 'c'
+BCM24249
+7899633717
+Batsman
+Right
+https://drive.google.com
+16/05/2026 22:12:46
+Sumanth
+3rd bcom
+BCM23145
+9606524214
+All-rounder
+Left
+https://drive.google.com
+16/05/2026 22:13:34
+Mani 
+3rd bcom B
+BCM23100
+7483642198
+All-rounder
+Right
+https://drive.google.com
+17/05/2026 09:57:02
+Sujwal shetty
+2nd BBA
+BBA24073
+9353171499
+Bowler
+Right
+https://drive.google.com
+17/05/2026 20:07:09
+Karthik 
+Final b.com E
+Bcm23293
+9740626412
+All-rounder
+Right
+https://drive.google.com
+17/05/2026 20:08:19
+Praveen devadiga
+IIIBBA
+Bba23033
+8431569523
+Batsman
+Right
+https://drive.google.com
+17/05/2026 20:08:28
+Aditya Bhat 
+III BCA A
+BCA23017
+8618508133
+Batsman
+Right
+https://drive.google.com
+17/05/2026 20:10:02
+Pavan
+III BBA
+Bba23028
+8105326414
+Batsman
+Right
+https://drive.google.com
+17/05/2026 20:10:20
+Rajath
+1BBA
+BBA25078
+7019339293
+Bowler
+Right
+https://drive.google.com
+17/05/2026 20:14:22
+KARTHIK 
+BBA 
+BBA23011
+7022640477
+Batsman
+Right
+https://drive.google.com
+17/05/2026 20:16:43
+Dp prajwal
+3 bcom b
+Bcm23090
+7411327337
+Batsman
+Right
+https://drive.google.com
+17/05/2026 20:20:23
+Shashikeerthi 
+III BCA'B'
+BCA23111
+7338293918
+Batsman
+Right
+https://drive.google.com
+17/05/2026 20:34:11
+Arya
+||| BCOM E
+Bcm23278
+8431959126
+Batsman
+Right
+https://drive.google.com
+17/05/2026 20:51:04
+Suman
+2 BCA B
+Bca24134
+8147464675
+All-rounder
+Right
+https://drive.google.com
+17/05/2026 20:54:00
+Sharan shetty 
+2 BCA
+BCA24116
+6360152747
+Batsman
+Right
+https://drive.google.com
+17/05/2026 20:55:22
+Sharan shetty 
+2 BCA 
+BCA24116
+6360152747
+Batsman
+Right
+https://drive.google.com
+17/05/2026 21:13:23
+Naveen 
+II B.Com B
+BCM24138 
+8431653419
+Batsman
+Left
+https://drive.google.com
+17/05/2026 21:14:11
+Deekshith 
+II BCA B
+BCA24086
+6362477325
+Batsman
+Right
+https://drive.google.com
+17/05/2026 21:14:50
+Sampath 
+Final B.com A
+BCM23054
+8762124001
+All-rounder
+Right
+https://drive.google.com
+17/05/2026 21:30:07
+Darshan
+III BCA B
+BCA23078
+9380989191
+All-rounder
+Right
+https://drive.google.com
+17/05/2026 21:43:18
+Adithya
+I-BCA-A
+BCA25001
+7483438290
+Batsman
+Right
+https://drive.google.com
+17/05/2026 22:17:14
+Prajwal
+1 bca c
+25145
+6361966026
+Bowler
+Left
+https://drive.google.com
+17/05/2026 22:18:30
+Rakshan 
+lll BCOM E
+BCM23321
+8073942951
+Batsman
+Right
+https://drive.google.com
+18/05/2026 08:42:45
+Prajwal
+III BCA A
+BCA23033
+7483663798
+All-rounder
+Right
+https://drive.google.com
+18/05/2026 14:42:19
+Sachin
+1bca
+25036
+6363586746
+Batsman
+Right
+https://drive.google.com
+18/05/2026 15:05:12
+Harshal
+Final Bcom E
+BCM23292
+6364166954
+Batsman
+Right
+https://drive.google.com
+18/05/2026 15:37:19
+Samarth
+1 bca a 
+BCA25038
+9148615987
+Batsman
+Left
+https://drive.google.com
+18/05/2026 19:04:51
+Prathvil 
+1st B.Com   'C'
+BCM25239 
+9008201227
+All-rounder
+Right
+https://drive.google.com
+18/05/2026 21:19:23
+Akash M M
+2 bcom D
+Bcm24308
+8762483719
+All-rounder
+Right
+https://drive.google.com
+18/05/2026 22:17:29
+Sujan
+1 bca c
+Bca25169
+89044 68340 
+Batsman
+Right
+https://drive.google.com
+
