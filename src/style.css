@@ -69,7 +69,17 @@ p.subtitle {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 3px;
-  margin-bottom: 50px;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.player-count {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 28px;
   text-align: center;
 }
 
@@ -79,9 +89,33 @@ p.subtitle {
   max-width: 650px;
   margin-bottom: 40px;
   z-index: 100;
+  display: flex;
+  gap: 10px;
+  align-items: stretch;
+}
+
+.show-all-btn {
+  flex-shrink: 0;
+  padding: 0 22px;
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #fff;
+  background: rgba(0, 210, 255, 0.2);
+  border: 1px solid rgba(0, 210, 255, 0.45);
+  border-radius: 16px;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.show-all-btn:hover {
+  background: rgba(0, 210, 255, 0.35);
+  border-color: var(--primary-color);
 }
 
 .search-input {
+  flex: 1;
   width: 100%;
   padding: 22px 30px;
   font-size: 1.2rem;
@@ -101,10 +135,25 @@ p.subtitle {
   box-shadow: 0 0 20px rgba(0, 210, 255, 0.2), 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 
+.dropdown-header {
+  padding: 12px 20px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--primary-color);
+  background: rgba(0, 210, 255, 0.08);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
 .search-dropdown {
   position: absolute;
   top: calc(100% + 10px);
   left: 0;
+  right: 0;
   width: 100%;
   background: rgba(15, 20, 28, 0.95);
   border: 1px solid var(--panel-border);
@@ -112,7 +161,7 @@ p.subtitle {
   backdrop-filter: blur(20px);
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
   list-style: none;
-  max-height: 400px;
+  max-height: min(420px, 55vh);
   overflow-y: auto;
   display: none;
 }
@@ -244,14 +293,14 @@ p.subtitle {
 }
 
 .profile-titles {
-  margin-bottom: 40px;
+  margin-bottom: 0;
 }
 
 .profile-name {
   font-size: 3.5rem;
   font-weight: 800;
   line-height: 1.1;
-  margin-bottom: 20px;
+  margin-bottom: 0;
   text-shadow: 0 4px 10px rgba(0,0,0,0.5);
   background: linear-gradient(45deg, #fff, var(--primary-color));
   -webkit-background-clip: text;
@@ -273,10 +322,42 @@ p.subtitle {
   letter-spacing: 1.5px;
 }
 
-.role-badge {
+.category-badge {
+  border: 1px solid transparent;
+}
+
+.category-batsman {
+  background: rgba(46, 204, 113, 0.18);
+  color: #2ecc71;
+  border-color: rgba(46, 204, 113, 0.35);
+}
+
+.category-bowler {
+  background: rgba(231, 76, 60, 0.18);
+  color: #e74c3c;
+  border-color: rgba(231, 76, 60, 0.35);
+}
+
+.category-allrounder {
+  background: rgba(155, 89, 182, 0.18);
+  color: #bb86fc;
+  border-color: rgba(155, 89, 182, 0.35);
+}
+
+.hand-badge {
+  border: 1px solid transparent;
+}
+
+.hand-right {
   background: rgba(0, 210, 255, 0.15);
   color: var(--primary-color);
-  border: 1px solid rgba(0, 210, 255, 0.3);
+  border-color: rgba(0, 210, 255, 0.3);
+}
+
+.hand-left {
+  background: rgba(243, 156, 18, 0.15);
+  color: var(--accent);
+  border-color: rgba(243, 156, 18, 0.35);
 }
 
 .class-badge {
@@ -285,12 +366,71 @@ p.subtitle {
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
+.dropdown-meta {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 3px;
+}
+
+.dropdown-tags {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 6px;
+}
+
+.tag-mini {
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tag-mini.category-batsman {
+  background: rgba(46, 204, 113, 0.2);
+  color: #2ecc71;
+}
+
+.tag-mini.category-bowler {
+  background: rgba(231, 76, 60, 0.2);
+  color: #e74c3c;
+}
+
+.tag-mini.category-allrounder {
+  background: rgba(155, 89, 182, 0.2);
+  color: #bb86fc;
+}
+
+.tag-mini.hand-right {
+  background: rgba(0, 210, 255, 0.15);
+  color: var(--primary-color);
+}
+
+.tag-mini.hand-left {
+  background: rgba(243, 156, 18, 0.15);
+  color: var(--accent);
+}
+
+.stat-value-category.category-batsman { color: #2ecc71; }
+.stat-value-category.category-bowler { color: #e74c3c; }
+.stat-value-category.category-allrounder { color: #bb86fc; }
+.stat-value-hand.hand-right { color: var(--primary-color); }
+.stat-value-hand.hand-left { color: var(--accent); }
+
+.stat-icon-category { background: rgba(46, 204, 113, 0.15); color: #2ecc71; }
+.stat-icon-hand { background: rgba(0, 210, 255, 0.15); color: var(--primary-color); }
+
 .section-title {
   font-size: 1.1rem;
   color: var(--text-muted);
   text-transform: uppercase;
   letter-spacing: 2px;
-  margin-bottom: 25px;
+  margin-top: 16px;
+  margin-bottom: 20px;
   display: flex;
   align-items: center;
 }
