@@ -1,0 +1,715 @@
+[
+  {
+    "name": "Darshan",
+    "role": "Right Hand All-rounder",
+    "class": "III BCA B",
+    "registrationId": "BCA23078",
+    "phone": "9380989191",
+    "photoUrl": "https://drive.google.com/uc?id=1Xvys7HaCgefXX8zabUTnckg4H5I4qmm_"
+  },
+  {
+    "name": "Shashank Shetty",
+    "role": "Right Hand Batsman",
+    "class": "III BCOM B",
+    "registrationId": "BCM23211",
+    "phone": "9148848361",
+    "photoUrl": "https://drive.google.com/uc?id=1zBQRoce2W0zBq9qncivypms-2Y3rEeMa"
+  },
+  {
+    "name": "Praveen devadiga",
+    "role": "Right Hand All-rounder",
+    "class": "III BBA",
+    "registrationId": "BBA23033",
+    "phone": "8431569523",
+    "photoUrl": "https://drive.google.com/uc?id=1RTQKX77Z3vFI-16AOIY3MpO7gDceUGtN"
+  },
+  {
+    "name": "Darshan",
+    "role": "Right Hand All-rounder",
+    "class": "3rd BCA A",
+    "registrationId": "BCA23022",
+    "phone": "9483151726",
+    "photoUrl": "https://drive.google.com/uc?id=15WvuI7bjKaCKp0HdBy9W_OqyCyrH4Su2"
+  },
+  {
+    "name": "Dp prajwal",
+    "role": "Right Hand Batsman",
+    "class": "3 bcom B",
+    "registrationId": "Bcm23090",
+    "phone": "7411327337",
+    "photoUrl": "https://drive.google.com/uc?id=1WjEWWkolTXL-oah77Fa2JLCD2JNy3Dsw"
+  },
+  {
+    "name": "Sharan shetty",
+    "role": "Right Hand Batsman",
+    "class": "2nd BCA B",
+    "registrationId": "BCA24116",
+    "phone": "6360152747",
+    "photoUrl": "https://drive.google.com/uc?id=1YdX6TiWrGz3dgEH_drRqOnZSzgo_if9x"
+  },
+  {
+    "name": "RODNEY",
+    "role": "Right Hand All-rounder",
+    "class": "II Bcom A",
+    "registrationId": "BCM24054",
+    "phone": "7795884367",
+    "photoUrl": "https://drive.google.com/uc?id=1-UzmsPPUz7A4PVkXvKCoHWDRlyz1bk8h"
+  },
+  {
+    "name": "Kiran kotari",
+    "role": "Right Hand Batsman",
+    "class": "Final BCA 'B'",
+    "registrationId": "BCA23088",
+    "phone": "9611923433",
+    "photoUrl": "https://drive.google.com/uc?id=1i0_65liGdwQSmtmM1CnKqhmi2MRoGEg9"
+  },
+  {
+    "name": "Maneesh",
+    "role": "Right Hand Bowler",
+    "class": "2nd B.Com C",
+    "registrationId": "BCM24254",
+    "phone": "8971030161",
+    "photoUrl": "https://drive.google.com/uc?id=1xBwZdj7FDVkO-3PxFBzkEG_VS9ec9WrH"
+  },
+  {
+    "name": "Subrahmanya B",
+    "role": "Right Hand All-rounder",
+    "class": "3 B.com C",
+    "registrationId": "BCM23222",
+    "phone": "8088435393",
+    "photoUrl": "https://drive.google.com/uc?id=1qftVMTVATrVnxBizfP13mS23H9YlQM5K"
+  },
+  {
+    "name": "Winston",
+    "role": "Right Hand All-rounder",
+    "class": "3rd B.COM",
+    "registrationId": "BCM23360",
+    "phone": "7022432759",
+    "photoUrl": "https://drive.google.com/uc?id=1__TmOKQAlVR-oxA7tdgQgyH0sOjYeA5E"
+  },
+  {
+    "name": "Sharath",
+    "role": "Right Hand All-rounder",
+    "class": "III BCA B",
+    "registrationId": "BCA23110",
+    "phone": "9353237391",
+    "photoUrl": "https://drive.google.com/uc?id=1xHf0mexBaSc1UhQOfyLQccKrged644CV"
+  },
+  {
+    "name": "Arya",
+    "role": "Right Hand Batsman",
+    "class": "3 BCOM E",
+    "registrationId": "BCM23278",
+    "phone": "8431959126",
+    "photoUrl": "https://drive.google.com/uc?id=1WMtEsjJ4ue6ALHemxJ0zuUsxk7esbf45"
+  },
+  {
+    "name": "Prajwal",
+    "role": "Right Hand All-rounder",
+    "class": "III BCA 'A'",
+    "registrationId": "BCA23033",
+    "phone": "7483663798",
+    "photoUrl": "https://drive.google.com/uc?id=14N2Bm4TNN-UqrYmxyJHiGJcK9tUQNNtp"
+  },
+  {
+    "name": "Prakyath A Hegde",
+    "role": "Right Hand Batsman",
+    "class": "III BCA A",
+    "registrationId": "BCA23034",
+    "phone": "6360843239",
+    "photoUrl": "https://drive.google.com/uc?id=1kCuAdztkT881P2pmG0AmFmtJqJW6nFhw"
+  },
+  {
+    "name": "Prasad M Bhandary",
+    "role": "Right Hand Batsman",
+    "class": "III BCA A",
+    "registrationId": "BCA23035",
+    "phone": "9632242492",
+    "photoUrl": "https://drive.google.com/uc?id=1zwVpsKKalniCfqSwjMonfVVJmVBXwxWi"
+  },
+  {
+    "name": "Rohit Shetty",
+    "role": "Right Hand All-rounder",
+    "class": "II b.com b",
+    "registrationId": "Bcm24166",
+    "phone": "7349655070",
+    "photoUrl": "https://drive.google.com/uc?id=1Q983M-DRdsdposfwwiWYsp5oaiFUQlLA"
+  },
+  {
+    "name": "Sathvik",
+    "role": "Right Hand Batsman",
+    "class": "1'b com c",
+    "registrationId": "Bcm25257",
+    "phone": "7017233492",
+    "photoUrl": "https://drive.google.com/uc?id=13c_QadyJjeCtxb1ta50DIDRipu8sgvyh"
+  },
+  {
+    "name": "Pavan",
+    "role": "Right Hand Batsman",
+    "class": "III BBA",
+    "registrationId": "BBA23028",
+    "phone": "8105326414",
+    "photoUrl": "https://drive.google.com/uc?id=1HJnyIMeHpybyU6cinUXZWVExEBz0c66s"
+  },
+  {
+    "name": "Dp prajwal",
+    "role": "Right Hand Batsman",
+    "class": "3 b com B",
+    "registrationId": "Bcm23090",
+    "phone": "7411327337",
+    "photoUrl": "https://drive.google.com/uc?id=1r-BF92ucYeC1FQdD4AwXFSKC2zWGuDWq"
+  },
+  {
+    "name": "Nikhil",
+    "role": "Right Hand All-rounder",
+    "class": "III BCA B",
+    "registrationId": "BCA23096",
+    "phone": "8296460780",
+    "photoUrl": "https://drive.google.com/uc?id=1vlPG9WdwTAwvqa-f00e0BMx9rQAFf8ls"
+  },
+  {
+    "name": "DARSHAN GOWDA",
+    "role": "Right Hand Batsman",
+    "class": "III BCA'A'",
+    "registrationId": "BCA23021",
+    "phone": "9019633283",
+    "photoUrl": "https://drive.google.com/uc?id=16m39cPOpBrIUzTchD9XNwtmGxnH66DX8"
+  },
+  {
+    "name": "Deekshith",
+    "role": "Right Hand Batsman",
+    "class": "II BCA B",
+    "registrationId": "BCA24086",
+    "phone": "6362477325",
+    "photoUrl": "https://drive.google.com/uc?id=1qVlU9yo2uMq-s598yANGC813lxI3Mki5"
+  },
+  {
+    "name": "Manjunath",
+    "role": "Right Hand All-rounder",
+    "class": "III BCOM A",
+    "registrationId": "BCM23030",
+    "phone": "8867252468",
+    "photoUrl": "https://drive.google.com/uc?id=1O0H6Ko8YzWL8BWWytkjp5Fu0u1TStEx1"
+  },
+  {
+    "name": "Sampreeth shetty",
+    "role": "Right Hand Bowler",
+    "class": "III BCA A",
+    "registrationId": "BCA23044",
+    "phone": "9008978976",
+    "photoUrl": "https://drive.google.com/uc?id=1piAHTabW8q39hLtlTlozVzKB2RhW-Wpe"
+  },
+  {
+    "name": "Bharath",
+    "role": "Right Hand Batsman",
+    "class": "Final B.Com",
+    "registrationId": "BCM23170",
+    "phone": "8660961372",
+    "photoUrl": "https://drive.google.com/uc?id=1SwrE2jjBVx2ghkN2QaQSDS-agZz8llk4"
+  },
+  {
+    "name": "Akilesh",
+    "role": "Right Hand Batsman",
+    "class": "III BCA B",
+    "registrationId": "BCA23070",
+    "phone": "8310901542",
+    "photoUrl": "https://drive.google.com/uc?id=1j_6iASTeRYhcYjZnCfpPjWG27mXm4jye"
+  },
+  {
+    "name": "Anvith shet",
+    "role": "Right Hand All-rounder",
+    "class": "1Bcom (c)",
+    "registrationId": "BCM25201",
+    "phone": "8296199290",
+    "photoUrl": "https://drive.google.com/uc?id=1twdHERPpp9FgXHJoXLW_M5at_Z5hCkZ5"
+  },
+  {
+    "name": "Akash B Shetty",
+    "role": "Left Hand Batsman",
+    "class": "III B.com C",
+    "registrationId": "BCM23162",
+    "phone": "6360375791",
+    "photoUrl": "https://drive.google.com/uc?id=1WiV90Rptpikszh5SFUi9PtqvvYV2rTW4"
+  },
+  {
+    "name": "Rithik chandan",
+    "role": "Right Hand Bowler",
+    "class": "II BCA(A)",
+    "registrationId": "BCA24045",
+    "phone": "7676055364",
+    "photoUrl": "https://drive.google.com/uc?id=1agsn2rGijF0gZ3Ip68941YlcoBdKRyYP"
+  },
+  {
+    "name": "Akshay",
+    "role": "Right Hand Batsman",
+    "class": "1st Bca",
+    "registrationId": "Bca25063",
+    "phone": "8861063974",
+    "photoUrl": "https://drive.google.com/uc?id=1V1nF7JdgHI4zOo5GXW5oORNd8elC0mo9"
+  },
+  {
+    "name": "Shrinidhi Shetty",
+    "role": "Left Hand All-rounder",
+    "class": "2 BBA",
+    "registrationId": "BBA24068",
+    "phone": "7676987926",
+    "photoUrl": "https://drive.google.com/uc?id=1cWLrieaRdYWGqHx2Sxdu2Mr0UZYiFB5H"
+  },
+  {
+    "name": "Mahesh",
+    "role": "Right Hand All-rounder",
+    "class": "BCA",
+    "registrationId": "Bca23090",
+    "phone": "7026131918",
+    "photoUrl": "https://drive.google.com/uc?id=1Kfoo4myi2es1ex_d-vbCNviP_C-BPOmP"
+  },
+  {
+    "name": "Ashish",
+    "role": "Right Hand All-rounder",
+    "class": "Final bcom C",
+    "registrationId": "BCM23166",
+    "phone": "8310758261",
+    "photoUrl": "https://drive.google.com/uc?id=1GOLhGujOb8AbjrC47mB5_JV69lzZecCH"
+  },
+  {
+    "name": "ADITHYA",
+    "role": "Right Hand All-rounder",
+    "class": "1st bca b",
+    "registrationId": "Bca25061",
+    "phone": "9686316671",
+    "photoUrl": "https://drive.google.com/uc?id=1uDu2foU2etR1qvdSypOoTStTWXZ3ysEh"
+  },
+  {
+    "name": "Prathvil",
+    "role": "Right Hand All-rounder",
+    "class": "1st B.Com 'C'",
+    "registrationId": "BCM25239",
+    "phone": "9008201227",
+    "photoUrl": "https://drive.google.com/uc?id=1SBXoH-hcwf-9BgLtRphTevIhyD_JHFOs"
+  },
+  {
+    "name": "Nithesh Devadiga",
+    "role": "Right Hand Batsman",
+    "class": "2nd BBA",
+    "registrationId": "BBA24039",
+    "phone": "7899522506",
+    "photoUrl": "https://drive.google.com/uc?id=1b1msYDypf2ck7ibFfyePgBFxZNFjtVRO"
+  },
+  {
+    "name": "Rithan",
+    "role": "Right Hand Batsman",
+    "class": "1BCA B",
+    "registrationId": "BCA25085",
+    "phone": "9880413772",
+    "photoUrl": "https://drive.google.com/uc?id=1z4myNRtK2MUH1f9b4AsETNw2Q44xTxkr"
+  },
+  {
+    "name": "Vikas",
+    "role": "Right Hand Batsman",
+    "class": "2 bcom B",
+    "registrationId": "Bcm24394",
+    "phone": "9110892534",
+    "photoUrl": "https://drive.google.com/uc?id=1_vO4oLfRUVXuxLRGRcM3X8zCKuaO1q64"
+  },
+  {
+    "name": "Rajath",
+    "role": "Right Hand Bowler",
+    "class": "1BBA",
+    "registrationId": "BBA25078",
+    "phone": "7019339293",
+    "photoUrl": "https://drive.google.com/uc?id=1PHjtFJ46sN8-TOhRxvpl5uxGYuLA9sT9"
+  },
+  {
+    "name": "Nesara",
+    "role": "Right Hand Batsman",
+    "class": "1BBA",
+    "registrationId": "BBA25062",
+    "phone": "7795392109",
+    "photoUrl": "https://drive.google.com/uc?id=1Fvv_RKGbvuW2z1roIffHr42SGjfzm0W3"
+  },
+  {
+    "name": "Pavan N",
+    "role": "Right Hand All-rounder",
+    "class": "1st BBA",
+    "registrationId": "25064",
+    "phone": "7483903318",
+    "photoUrl": "https://drive.google.com/uc?id=1otWIicKfKCmvnZfMQfU90NoeElmg4sNT"
+  },
+  {
+    "name": "Rithan",
+    "role": "Right Hand Batsman",
+    "class": "1 bca b",
+    "registrationId": "BCA25085",
+    "phone": "9880413772",
+    "photoUrl": "https://drive.google.com/uc?id=1RODPPJ1veMszfer3gbSWJSVM_HcTtBMo"
+  },
+  {
+    "name": "Amay",
+    "role": "Right Hand All-rounder",
+    "class": "II BBA",
+    "registrationId": "BBA24006",
+    "phone": "9141515141",
+    "photoUrl": "https://drive.google.com/uc?id=1FjabQi3lntSkpLqBEFSrjHd7D9-1-D6M"
+  },
+  {
+    "name": "Sanketh",
+    "role": "Right Hand All-rounder",
+    "class": "1 BCA B",
+    "registrationId": "BCA25094",
+    "phone": "7892735252",
+    "photoUrl": "https://drive.google.com/uc?id=1MtdP3V4OB5-5OmP_76N0sTgjY45KetcH"
+  },
+  {
+    "name": "Sanketh",
+    "role": "Right Hand All-rounder",
+    "class": "1 BCA B",
+    "registrationId": "BCA 25094",
+    "phone": "7892735252",
+    "photoUrl": "https://drive.google.com/uc?id=1LSs3mLNOklavAVvwRaaMPLVtpESSnpNn"
+  },
+  {
+    "name": "Jeevanhs",
+    "role": "Right Hand Batsman",
+    "class": "II BCA 'A'",
+    "registrationId": "BCA24019",
+    "phone": "8792017807",
+    "photoUrl": "https://drive.google.com/uc?id=1fxFzsbflEuqlnQ0utyfXpa6QGwa0FTaR"
+  },
+  {
+    "name": "Goutham shetty",
+    "role": "Right Hand Batsman",
+    "class": "2nd BBA",
+    "registrationId": "BBA24023",
+    "phone": "+918296731487",
+    "photoUrl": "https://drive.google.com/uc?id=1Y7H8z3JSbenUAiANlNGygNRy-PXCGPBq"
+  },
+  {
+    "name": "Rajath Shetty",
+    "role": "Right Hand Batsman",
+    "class": "1st BCOM C",
+    "registrationId": "BCM25242",
+    "phone": "7981948558",
+    "photoUrl": "https://drive.google.com/uc?id=1Ew15MvCCpUlzF1ZIkIdS4_2iatvZKhnb"
+  },
+  {
+    "name": "Vinesh shetty",
+    "role": "Right Hand All-rounder",
+    "class": "2 Bcom D",
+    "registrationId": "Bcm24391",
+    "phone": "7483348834",
+    "photoUrl": "https://drive.google.com/uc?id=1MdvQGFHfY00b3oGorrg8oW5O5z1VNlHf"
+  },
+  {
+    "name": "Vinesh",
+    "role": "Right Hand All-rounder",
+    "class": "2 Bcom D",
+    "registrationId": "BCM24391",
+    "phone": "7483348834",
+    "photoUrl": "https://drive.google.com/uc?id=1-2RsFW6VxzBGByN5n5mLOD0j9X8LUL8J"
+  },
+  {
+    "name": "Karthik k bilava",
+    "role": "Right Hand All-rounder",
+    "class": "2nd BCOM D",
+    "registrationId": "BCM24324",
+    "phone": "8152911449",
+    "photoUrl": "https://drive.google.com/uc?id=1vMStOYgxhOHT6OkD3oSGircPpwotVBEd"
+  },
+  {
+    "name": "Manish Mogaveera",
+    "role": "Right Hand Batsman",
+    "class": "2nd bcom d",
+    "registrationId": "bcm24332",
+    "phone": "6362110228",
+    "photoUrl": "https://drive.google.com/uc?id=18cKdHQnzpNYt5d2tYj8EDefMkKO2pJhB"
+  },
+  {
+    "name": "VINAY",
+    "role": "Right Hand Batsman",
+    "class": "III BCOM A",
+    "registrationId": "BCM23030",
+    "phone": "89516 26049",
+    "photoUrl": "https://drive.google.com/uc?id=1948kq4F2H_WXr6-XkNtFZvlmE5OjBDnu"
+  },
+  {
+    "name": "Ganapathi",
+    "role": "Right Hand All-rounder",
+    "class": "2 bba",
+    "registrationId": "BBA24022",
+    "phone": "7975927235",
+    "photoUrl": "https://drive.google.com/uc?id=1mQRcrp6iDi30KILfQEYkRESKmtNteqiK"
+  },
+  {
+    "name": "Monish",
+    "role": "Right Hand All-rounder",
+    "class": "1st B.com \u2018c'",
+    "registrationId": "BCM25226",
+    "phone": "8296988667",
+    "photoUrl": "https://drive.google.com/uc?id=1H0nttv4AkcisGXdc2Ny6L2lwEn9wAilr"
+  },
+  {
+    "name": "Harshith N",
+    "role": "Right Hand Batsman",
+    "class": "II BCA A",
+    "registrationId": "BCA24018",
+    "phone": "9187090103",
+    "photoUrl": "https://drive.google.com/uc?id=1lUs-TuRA7OWVAD99VjVUwVF30wxajsjI"
+  },
+  {
+    "name": "Keerthiraj",
+    "role": "Right Hand Batsman",
+    "class": "2nd b. Com 'c'",
+    "registrationId": "BCM24249",
+    "phone": "7899633717",
+    "photoUrl": "https://drive.google.com/uc?id=1k-EtadG6ntf3pDK4jKl2PpI7Hxl3-rgL"
+  },
+  {
+    "name": "Keerthiraj",
+    "role": "Right Hand Batsman",
+    "class": "2nd b.com 'c'",
+    "registrationId": "BCM24249",
+    "phone": "7899633717",
+    "photoUrl": "https://drive.google.com/uc?id=1VJUDgs2WwWLJWIlLBSq_cbYDgVk3CaeM"
+  },
+  {
+    "name": "Nishanth",
+    "role": "Right Hand All-rounder",
+    "class": "2 bcom c",
+    "registrationId": "BCM24272",
+    "phone": "9535869070",
+    "photoUrl": "https://drive.google.com/uc?id=1KRAj2bfS11e2iuYXdyJ5ecxvNX1D_FLA"
+  },
+  {
+    "name": "Keerthiraj",
+    "role": "Right Hand Batsman",
+    "class": "2nd b. Com 'c'",
+    "registrationId": "BCM24249",
+    "phone": "7899633717",
+    "photoUrl": "https://drive.google.com/uc?id=1PWswi9ZBQ05Tq7zI2uuepeHXxQ32ycwS"
+  },
+  {
+    "name": "Sumanth",
+    "role": "Left Hand All-rounder",
+    "class": "3rd bcom",
+    "registrationId": "BCM23145",
+    "phone": "9606524214",
+    "photoUrl": "https://drive.google.com/uc?id=1h9v2dWkZ4qtHvUfR5HNySsh_67k-T1V-"
+  },
+  {
+    "name": "Mani",
+    "role": "Right Hand All-rounder",
+    "class": "3rd bcom B",
+    "registrationId": "BCM23100",
+    "phone": "7483642198",
+    "photoUrl": "https://drive.google.com/uc?id=1xOXXbdJYw_gvKqu5nJx-iv9mxb5A4W5-"
+  },
+  {
+    "name": "Sujwal shetty",
+    "role": "Right Hand Bowler",
+    "class": "2nd BBA",
+    "registrationId": "BBA24073",
+    "phone": "9353171499",
+    "photoUrl": "https://drive.google.com/uc?id=15FWzwM38a0x2KaxMg7w0yOe0e-_8rzkB"
+  },
+  {
+    "name": "Karthik",
+    "role": "Right Hand All-rounder",
+    "class": "Final b.com E",
+    "registrationId": "Bcm23293",
+    "phone": "9740626412",
+    "photoUrl": "https://drive.google.com/uc?id=1nbmn6gpeHnmI20ddFmJZtIHsx-E6-h88"
+  },
+  {
+    "name": "Praveen devadiga",
+    "role": "Right Hand Batsman",
+    "class": "IIIBBA",
+    "registrationId": "Bba23033",
+    "phone": "8431569523",
+    "photoUrl": "https://drive.google.com/uc?id=1Ebr8BXKmlbMS7bAmXd3k8jH1-PT7r6Pb"
+  },
+  {
+    "name": "Aditya Bhat",
+    "role": "Right Hand Batsman",
+    "class": "III BCA A",
+    "registrationId": "BCA23017",
+    "phone": "8618508133",
+    "photoUrl": "https://drive.google.com/uc?id=1fpDofUBY6Lh97e4TMBuYHaZ05qeF7EDP"
+  },
+  {
+    "name": "Pavan",
+    "role": "Right Hand Batsman",
+    "class": "III BBA",
+    "registrationId": "Bba23028",
+    "phone": "8105326414",
+    "photoUrl": "https://drive.google.com/uc?id=1j44AyMghGcXAfreS3-u134eGTXDAVQf2"
+  },
+  {
+    "name": "Rajath",
+    "role": "Right Hand Bowler",
+    "class": "1BBA",
+    "registrationId": "BBA25078",
+    "phone": "7019339293",
+    "photoUrl": "https://drive.google.com/uc?id=1RU5aBROB7VHaGrEIV3YJrYcpdgutjA2n"
+  },
+  {
+    "name": "KARTHIK",
+    "role": "Right Hand Batsman",
+    "class": "BBA",
+    "registrationId": "BBA23011",
+    "phone": "7022640477",
+    "photoUrl": "https://drive.google.com/uc?id=1ZZ4QJhZJh-T4WOE8y4vFZHoy1qR_Kg5U"
+  },
+  {
+    "name": "Dp prajwal",
+    "role": "Right Hand Batsman",
+    "class": "3 bcom b",
+    "registrationId": "Bcm23090",
+    "phone": "7411327337",
+    "photoUrl": "https://drive.google.com/uc?id=1IL8alTsUJDgCGmBXEB7vgQdMLtYoCZiD"
+  },
+  {
+    "name": "Shashikeerthi",
+    "role": "Right Hand Batsman",
+    "class": "III BCA'B'",
+    "registrationId": "BCA23111",
+    "phone": "7338293918",
+    "photoUrl": "https://drive.google.com/uc?id=1El1CEs-VeMDLENpDF18wc4sZnEUHRpfJ"
+  },
+  {
+    "name": "Arya",
+    "role": "Right Hand Batsman",
+    "class": "||| BCOM E",
+    "registrationId": "Bcm23278",
+    "phone": "8431959126",
+    "photoUrl": "https://drive.google.com/uc?id=1CH3VuD4dwnHKalU_x5lL8hsm7atbbHy4"
+  },
+  {
+    "name": "Suman",
+    "role": "Right Hand All-rounder",
+    "class": "2 BCA B",
+    "registrationId": "Bca24134",
+    "phone": "8147464675",
+    "photoUrl": "https://drive.google.com/uc?id=1-bjaCgFXgWdhdN5m3V1UlEHSeDQ4UN1b"
+  },
+  {
+    "name": "Sharan shetty",
+    "role": "Right Hand Batsman",
+    "class": "2 BCA",
+    "registrationId": "BCA24116",
+    "phone": "6360152747",
+    "photoUrl": "https://drive.google.com/uc?id=1ottGs-tBf74v4ZtE5F6D-QPVI0ne-_0q"
+  },
+  {
+    "name": "Sharan shetty",
+    "role": "Right Hand Batsman",
+    "class": "2 BCA",
+    "registrationId": "BCA24116",
+    "phone": "6360152747",
+    "photoUrl": "https://drive.google.com/uc?id=1KEJ4QrHWMS_L3k6w-kO_T6WQVCd2U_7U"
+  },
+  {
+    "name": "Naveen",
+    "role": "Left Hand Batsman",
+    "class": "II B.Com B",
+    "registrationId": "BCM24138",
+    "phone": "8431653419",
+    "photoUrl": "https://drive.google.com/uc?id=1fvrazC9ccPvF7nZHMjnuYrQd77g-BQS0"
+  },
+  {
+    "name": "Deekshith",
+    "role": "Right Hand Batsman",
+    "class": "II BCA B",
+    "registrationId": "BCA24086",
+    "phone": "6362477325",
+    "photoUrl": "https://drive.google.com/uc?id=1vb5xSXOVwdh40dEjX1Fv4kXImA2F1ryn"
+  },
+  {
+    "name": "Sampath",
+    "role": "Right Hand All-rounder",
+    "class": "Final B.com A",
+    "registrationId": "BCM23054",
+    "phone": "8762124001",
+    "photoUrl": "https://drive.google.com/uc?id=1DfHvyOMS7fEjhsc7MZi-TEkXy6xVx3-y"
+  },
+  
+  {
+    "name": "Adithya",
+    "role": "Right Hand Batsman",
+    "class": "I-BCA-A",
+    "registrationId": "BCA25001",
+    "phone": "7483438290",
+    "photoUrl": "https://drive.google.com/uc?id=1Oyopzu_L_MM4GT2qwc0LOpaAHxtSH2CW"
+  },
+  {
+    "name": "Prajwal",
+    "role": "Left Hand Bowler",
+    "class": "1 bca c",
+    "registrationId": "25145",
+    "phone": "6361966026",
+    "photoUrl": "https://drive.google.com/uc?id=17ym2fL2jYzM7RMhXYwN-HUq90tjsRt6X"
+  },
+  {
+    "name": "Rakshan",
+    "role": "Right Hand Batsman",
+    "class": "lll BCOM E",
+    "registrationId": "BCM23321",
+    "phone": "8073942951",
+    "photoUrl": "https://drive.google.com/uc?id=1ziit4TmahyI_eaQw9ZNX0HpkzvzTazBD"
+  },
+  {
+    "name": "Prajwal",
+    "role": "Right Hand All-rounder",
+    "class": "III BCA A",
+    "registrationId": "BCA23033",
+    "phone": "7483663798",
+    "photoUrl": "https://drive.google.com/uc?id=1ydRExHDJYbapTEmfd3qbzKccKBPamO-t"
+  },
+  {
+    "name": "Sachin",
+    "role": "Right Hand Batsman",
+    "class": "1bca",
+    "registrationId": "25036",
+    "phone": "6363586746",
+    "photoUrl": "https://drive.google.com/uc?id=14GObQkkWQ10nuVPnQM8OeXLTzd-juOqO"
+  },
+  {
+    "name": "Harshal",
+    "role": "Right Hand Batsman",
+    "class": "Final Bcom E",
+    "registrationId": "BCM23292",
+    "phone": "6364166954",
+    "photoUrl": "https://drive.google.com/uc?id=1H5wrrl5a3vw7HnN6dtnnQ3ASjKeJgi6O"
+  },
+  {
+    "name": "Samarth",
+    "role": "Left Hand Batsman",
+    "class": "1 bca a",
+    "registrationId": "BCA25038",
+    "phone": "9148615987",
+    "photoUrl": "https://drive.google.com/uc?id=1gQrDDCKy574Uw7eYZpsLqg6GX0t2TGp-"
+  },
+  {
+    "name": "Prathvil",
+    "role": "Right Hand All-rounder",
+    "class": "1st B.Com   'C'",
+    "registrationId": "BCM25239",
+    "phone": "9008201227",
+    "photoUrl": "https://drive.google.com/uc?id=1udqAblccMB1YTHsqI953wn04KtnXrkjR"
+  },
+  {
+    "name": "Akash M M",
+    "role": "Right Hand All-rounder",
+    "class": "2 bcom D",
+    "registrationId": "Bcm24308",
+    "phone": "8762483719",
+    "photoUrl": "https://drive.google.com/uc?id=13jmCrfFXM1HklHQcRWU_14xKMlJQ4LFZ"
+  },
+  {
+    "name": "Sujan",
+    "role": "Right Hand Batsman",
+    "class": "1 bca c",
+    "registrationId": "Bca25169",
+    "phone": "89044 68340",
+    "photoUrl": "https://drive.google.com/uc?id=1EjUJeJgwbUlbRsEGJy9Uc6Qmid23sTId"
+  }
+]
